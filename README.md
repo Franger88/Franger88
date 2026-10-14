@@ -11,17 +11,17 @@ I build browser games and run **[StreamHeath](https://streamheath.com)**, a spor
 | Game | What it is |
 |---|---|
 | [blackjack](https://github.com/Franger88/blackjack) | Casino-style blackjack in the browser |
-| [fps-game](https://github.com/Franger88/fps-game) | VOIDSHOT, a single-file HTML5 canvas FPS |
-| [frequency-7](https://github.com/Franger88/frequency-7) · [android](https://github.com/Franger88/frequency-7-android) | Haunted shortwave chase game |
+| [fps-game](https://github.com/Franger88/fps-game) · [▶ Play](https://franger88.github.io/fps-game/) | VOIDSHOT, a single-file HTML5 canvas FPS |
+| [frequency-7](https://github.com/Franger88/frequency-7) · [android](https://github.com/Franger88/frequency-7-android) · [▶ Play](https://franger88.github.io/frequency-7/) | Haunted shortwave chase game |
 | [godot-fps](https://github.com/Franger88/godot-fps) | Sector Breach, a Halo-inspired FPS for Godot 4 |
 | [haunch](https://github.com/Franger88/haunch) | Night masonry for a Pixel. Three arches, one thumb. |
 | [luke-swing](https://github.com/Franger88/luke-swing) | Jungle vine-swinging game |
 | [night-shift](https://github.com/Franger88/night-shift) | Night-shift game |
 | [ouija-board](https://github.com/Franger88/ouija-board) | Interactive Ouija board with typed and spoken questions |
 | [poker-stud](https://github.com/Franger88/poker-stud) | Five-card stud against five computer opponents |
-| [scorched-earth](https://github.com/Franger88/scorched-earth) | Scorched Heath, a browser artillery duel |
-| [squirrel-dash](https://github.com/Franger88/squirrel-dash) | Sonic-style squirrel speed platformer |
-| [wispbound](https://github.com/Franger88/wispbound) | Neon spirit action-platformer |
+| [scorched-earth](https://github.com/Franger88/scorched-earth) · [▶ Play](https://franger88.github.io/scorched-earth/) | Scorched Heath, a browser artillery duel |
+| [squirrel-dash](https://github.com/Franger88/squirrel-dash) · [▶ Play](https://franger88.github.io/squirrel-dash/) | Sonic-style squirrel speed platformer |
+| [wispbound](https://github.com/Franger88/wispbound) · [▶ Play](https://franger88.github.io/wispbound/) | Neon spirit action-platformer |
 | [sgi-scavenger-hunt](https://github.com/Franger88/sgi-scavenger-hunt) | St. George Island scavenger hunt |
 | [grok-buddy](https://github.com/Franger88/grok-buddy) | Desktop companion app |
 
