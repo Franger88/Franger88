@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5EEAD4&center=true&vCenter=true&lines=builds+games+%26+StreamHeath" />
 </p>
 
-📍 Chattanooga, TN · I build browser games and run **[StreamHeath](https://streamheath.com)**, a sports, news and betting-boards site.
+I build browser games and run **[StreamHeath](https://streamheath.com)**, a sports, news and betting-boards site.
 
 ### 🎮 Games
 | Game | What it is |
